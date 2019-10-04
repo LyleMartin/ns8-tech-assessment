@@ -1,0 +1,16 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "restify": "^8.4.0",
+    "restify-clients": "^2.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
